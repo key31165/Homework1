@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="start_scan">開啟掃描</string>
+    <string name="close_scan">關閉掃描</string>
+</resources>
